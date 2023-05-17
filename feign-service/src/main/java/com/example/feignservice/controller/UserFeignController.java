@@ -39,4 +39,9 @@ public class UserFeignController {
     public CommonResult delete(@PathVariable Long id) {
         return userService.delete(id);
     }
+
+    @RequestMapping("/test")
+    public void test() {
+        System.out.println("111111111111");
+    }
 }
