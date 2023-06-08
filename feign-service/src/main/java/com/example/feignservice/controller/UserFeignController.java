@@ -53,5 +53,8 @@ public class UserFeignController {
         System.out.println("2222222222222222222");
         System.out.println("-----------------------");
         System.out.println("&&&&&&&&&&&&&&&&&&&&&&&&&&");
+        System.out.println("9999999999999999");
+        System.out.println("00000000000000000000000");
+        System.out.println("$$$$$$$$$$$$$$$$$$");
     }
 }
