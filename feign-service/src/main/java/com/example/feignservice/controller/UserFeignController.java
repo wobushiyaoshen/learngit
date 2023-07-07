@@ -46,9 +46,4 @@ public class UserFeignController {
         System.out.println("2222222");
     }
 
-
-    @RequestMapping("/testuuuuuuuuuuuuuuu")
-    public void testuuuuuuuuuuuuuuu() {
-        System.out.println("LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL");
-    }
 }
