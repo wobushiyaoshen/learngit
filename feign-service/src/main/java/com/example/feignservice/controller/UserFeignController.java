@@ -44,4 +44,12 @@ public class UserFeignController {
     public void test() {
         System.out.println("111111111111");
     }
+
+
+    @RequestMapping("testRevert")
+    public void testRevert() {
+        int a = 10;
+        int b = 2;
+        int c = a/b;
+    }
 }
